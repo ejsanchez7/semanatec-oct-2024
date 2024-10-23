@@ -1,5 +1,5 @@
 suma = 0
-cantidad = 4
+cantidad = 5
 i = 0
 
 while i < cantidad :
